@@ -9,3 +9,7 @@
 ## Panel with options Dashboard Image
 
 ![img](https://github.com/hhk22/grafana/blob/master/images/panel-with-option-dashboard.png)
+
+## Paenl with specific object options Dashboard Image
+
+![img](https://github.com/hhk22/grafana/blob/master/images/panel-with-specific-obj.png)
